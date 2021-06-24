@@ -1,0 +1,11 @@
+{
+  "name": "Name of the error",
+  "data": {
+    "date": "Date and time the error has been encountered",
+    "errorName": "Name of the error",
+    "params":{
+      "missingField": "Name of the missing field causing the error"
+    },
+    "message": "message to describe the error"
+  }
+}

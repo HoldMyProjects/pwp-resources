@@ -1,0 +1,9 @@
+{
+    "name": "Name of the error",
+    "data": {
+        "date": "Date and time the error has been encountered",
+        "errorName": "Name of the error",
+        "params":{},
+        "message": "message to describe the error"
+    }
+}
